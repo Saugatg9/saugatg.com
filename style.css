@@ -1,0 +1,164 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+.science{
+    background:  url(background.jpg);
+    background-blend-mode: hard-light;
+ margin: auto;
+    height: auto;
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.opacity{
+    height: 100vh;
+    background: rgba(700,700,700,0.6);
+   
+    
+}
+.top-logo{
+   padding: 1px;
+    position: absolute;
+    top: 4%;
+    left: 7%;
+}
+.p1{
+       padding: 0px;
+    margin: 0px;
+    font-size: 03em;
+    font-family: cursive;
+    position: absolute;
+    top: 25%;
+    left: 52%;
+        transform: translateX(-45%) translateY(-40%);
+    
+}
+.p2{
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 44%;
+        left: 53%;
+     transform: translateX(-58%) translateY(-44%);
+    font-family: monospace;
+}
+.p3{
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 75%;
+        left: 53%;
+     transform: translateX(-53%) translateY(-75%);
+    font-family: cursive;
+    font-size:19
+}
+.yt{
+   padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 81%;
+        left: 41%;
+     transform: translateX(-41%) translateY(-81%); 
+    text-size: 29;
+    color:red;
+}
+.fb{
+   padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 81%;
+        left: 63%;
+     transform: translateX(-63%) translateY(-81%); 
+    text-size: 29;
+    color:blue;
+}
+.it{
+   padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 81%;
+        left: 49%;
+     transform: translateX(-49%) translateY(-81%); 
+    text-size: 29;
+    
+}
+.tt{
+     padding: 0px;
+    margin: 0px;
+    position: absolute;
+    top: 81%;
+        left: 56%;
+     transform: translateX(-56%) translateY(-81%); 
+    color: black;
+        
+}
+.yt:hover{
+    color: darkgrey;
+}
+.fb:hover{
+    color:grey;
+}
+.it:hover{
+    color:grey;
+}
+.tt:hover{
+    color: grey;
+}
+.color{
+    font-size:1.4em;
+    font-weight: 700;
+    position: absolute;
+    top: 57.5%;
+left: 52%;
+       transform: translateX(-50%) translateY(-53%); 
+}
+.you{
+    color: orangered;
+}
+.only{
+    color: indigo;
+}
+.live{
+    color: blue;
+}
+.once{
+    color: goldenrod;
+}
+.yo{
+    color: steelblue;
+}
+.right{
+    color: green;
+}
+.hb{
+    
+    position: absolute;
+    top:30%;
+    left:5%;
+}
+.homebutton:hover{
+    color: green;
+}
+.navigation{
+   position: relative;
+    top: 32%;
+    left: 0%;
+}
+.navigation ul{
+    position: relative;
+    
+    
+}
+.navigation ul li{
+    position: relative;
+    list-style: none;
+    padding: 25px;
+    
+}
