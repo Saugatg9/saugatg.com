@@ -162,3 +162,24 @@ left: 52%;
     padding: 25px;
     
 }
+.travellink{
+    border-radius: 30px;
+    padding-top: 17px;
+    padding-right: 40px;
+    padding-bottom: 17px;
+    padding-left: 40px;
+    position: absolute;
+    top: 90%;
+    left: 52%;
+        transform: translateX(-48%);
+    text-decoration: none;
+    padding: 8px;
+  color: aliceblue;
+    font-size: 1.2em;
+    font-weight: 800;
+    background-color: #0274be;
+    
+}
+.travellink:hover{
+    background-color: darkslategrey;
+}
